@@ -269,8 +269,8 @@ span{
   color: #0e0e0e;  
 }
 
-h2{
-  font-size: 20px;  
+h2, #enviar {
+  font-size: 20px;    
   text-align: letf;
   font-family: 'Oswald';
   padding-bottom: 20px; 
