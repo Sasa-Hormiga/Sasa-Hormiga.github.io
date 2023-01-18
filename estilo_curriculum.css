@@ -238,7 +238,7 @@ label{
 }
 
 
-button{
+input {
   height: 45px; 
   padding-left: 5px;
   padding-right: 5px;   
@@ -254,7 +254,7 @@ button{
 }
 
 
-button p{
+input p {
   color: #fff; 
 }
 
